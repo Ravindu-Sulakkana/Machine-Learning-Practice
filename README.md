@@ -1,2 +1,2 @@
 # Machine-Learning-Practice
-This  repcsitory  contains Machine Learing  Projects which I used to practice. 
+This  repository  contains Machine Learing  Projects which I used to practice. 
